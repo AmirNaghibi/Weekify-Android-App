@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Weekify</string>
+    <string name="interesting_message">Take Control of Your Week</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="add_item">Add Item</string>
+    <string name="enter_a_new_item">Enter a new item</string>
+    <string name="done">Done</string>
+    <string name="todo">TODO</string>
+    <string name="hello_world">Hello World</string>
+    <string name="add_task">Add Task</string>
+</resources>
