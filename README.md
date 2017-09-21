@@ -6,3 +6,4 @@ Task management app that allows users to create tasks for each day of the week i
 - SQLite Database
 - Java
 - Android
+- Android Studio
